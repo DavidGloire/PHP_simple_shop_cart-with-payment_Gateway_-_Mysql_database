@@ -4,7 +4,8 @@
 - 🌱 I’m currently a graduate in software Engineering tryin' to master it!
 - 💞️ I’m looking to collaborate on coding with companies
 - 📫 How to reach me ...
-- Whatsapp / Tel No. +250789062904
+- Whatsapp : https://api.whatsapp.com/send?phone=250780498791&app=facebook&entry_point=page_cta
+- Tel No. +250789062904
 - Email : davidsnap00@gmail.com
 <!---
 DavidGloire/DavidGloire is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
